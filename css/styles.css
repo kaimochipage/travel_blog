@@ -429,6 +429,8 @@ footer {
   }
 
   main, aside {
+    margin-right: 0;
+    margin-left: 0;
     width: 100%;
   }
 
